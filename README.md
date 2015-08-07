@@ -20,13 +20,13 @@ _{Leave nothing to chance! You want it to be easy for potential employers and co
 
 ## Technologies Used
 
-_{Technologies used: Ruby, Rails, RSPEC, Capybara, Bootstrap. If you did something really cool using only HTML, point that out.}_
+_{Technologies used: Ruby, Rails, RSPEC, Sinatra, Capybara, Bootstrap. If you did something really cool using only HTML, point that out.}_
 
 ### Legal
 
 *{THis Repo is for my own educautional purposes.  Feel free to take a look and use anything but I can't gaurantee that its any good... ;0) }*
 
-Copyright (c) 2015 **_{List of contribtors}_**
+Copyright (c) 2015 **_{Carlo De Gregorio}_**
 
 This software is licensed under the MIT license.
 
