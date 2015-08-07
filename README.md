@@ -9,7 +9,7 @@
 _{A web app that will take a string and return how frequently a word appears in a given string. The user should be able to input both the word and the string of words to check.}_
 
 _{Heroku link: }
-_{}
+_{https://protected-hamlet-5508.herokuapp.com/}
 
 ## Technologies Used
 
