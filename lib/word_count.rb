@@ -5,13 +5,13 @@ class String
 
     result = 0
     split_string_array.count() do |word|
+      
       if word.match('peck')
-      result = result + 1
-    puts result
+        result = result + 1
+        puts result
+        puts word
+      end
     end
-  end
     return result
-
-
   end
 end

@@ -2,3 +2,12 @@ require('capybara/rspec')
 require('./app')
 Capybara.app = Sinatra::Application
 set(:show_exceptions, false)
+
+describe('the word_count path', {:type => :feature}) do
+  it('processes the user entry and returns with the number of times a word occurs in a given string') do
+    visit('/')
+    fill_in('word_count', :with => )
+    click_button('COUNT!')
+    expect(page).to have_content("occurences")
+  end
+end

@@ -8,19 +8,12 @@
 
 _{A web app that will take a string and return how frequently a word appears in a given string. The user should be able to input both the word and the string of words to check.}_
 
-## Setup
-
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Are there other applications this app depends on?}_
+_{Heroku link: }
+_{}
 
 ## Technologies Used
 
-_{Technologies used: Ruby, Rails, RSPEC, Sinatra, Capybara, Bootstrap. If you did something really cool using only HTML, point that out.}_
+_{Technologies used: Ruby, Rails, RSPEC, Sinatra, Capybara, Bootstrap, Heroku. If you did something really cool using only HTML, point that out.}_
 
 ### Legal
 
